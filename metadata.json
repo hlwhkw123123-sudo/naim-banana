@@ -1,0 +1,5 @@
+{
+  "name": "Naim Banana",
+  "description": "A fully responsive, modern image generation web app. Users can use text prompts to edit images using Gemini 2.5 Flash Image. All user data is stored locally on the device/browser using IndexedDB.",
+  "requestFramePermissions": []
+}
